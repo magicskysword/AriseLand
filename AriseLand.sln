@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AriseLand.Core", "AriseLand.Core\AriseLand.Core.csproj", "{38D7A3BA-18C6-441D-AC14-44B422C3CA49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AriseLand.Cli", "AriseLand.Cli\AriseLand.Cli.csproj", "{0D3DB8A6-E30A-4408-979B-95E71DCDA961}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AriseLand.Test", "AriseLand.Test\AriseLand.Test.csproj", "{1B8E21BB-FD77-441B-86E4-AF937321B3B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D7A3BA-18C6-441D-AC14-44B422C3CA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D7A3BA-18C6-441D-AC14-44B422C3CA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D7A3BA-18C6-441D-AC14-44B422C3CA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D7A3BA-18C6-441D-AC14-44B422C3CA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3DB8A6-E30A-4408-979B-95E71DCDA961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3DB8A6-E30A-4408-979B-95E71DCDA961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3DB8A6-E30A-4408-979B-95E71DCDA961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3DB8A6-E30A-4408-979B-95E71DCDA961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8E21BB-FD77-441B-86E4-AF937321B3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8E21BB-FD77-441B-86E4-AF937321B3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8E21BB-FD77-441B-86E4-AF937321B3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8E21BB-FD77-441B-86E4-AF937321B3B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
